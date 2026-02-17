@@ -1,0 +1,32 @@
+# Backend
+todo-backend/target/
+todo-backend/.mvn/
+todo-backend/mvnw
+todo-backend/mvnw.cmd
+*.class
+*.jar
+*.war
+*.log
+
+# Frontend
+todo-frontend/node_modules/
+todo-frontend/build/
+todo-frontend/.env.local
+todo-frontend/.env.development.local
+todo-frontend/.env.test.local
+todo-frontend/.env.production.local
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+git_output.txt
