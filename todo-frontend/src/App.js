@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import TodoForm from './components/TodoForm';
 import TodoList from './components/TodoList';
 import todoService from './services/todoService';
+// Main entry point for the Todo Frontend Application
 import './App.css';
 
 function App() {
